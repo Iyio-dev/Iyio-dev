@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer | JavaScript Enthusiast | Builder
 
-I’m a passionate developer from **Nigeria 🇳🇬** who enjoys turning ideas into practical, real-world software.
+I'm a passionate developer from **Nigeria 🇳🇬** who enjoys turning ideas into practical, real-world software.
 
 I started with web development and PHP, built my first serious full-stack platform, and I'm now focused on **modern JavaScript development** with React, Node.js, Express, and MongoDB.
 
@@ -13,14 +13,15 @@ I started with web development and PHP, built my first serious full-stack platfo
 ## 🧑‍💻 About Me
 
 * 🎓 Aspiring **Computer Science student**
-* 🌍 Based in **Nigeria 🇳🇬**
+* 🇳🇬 Based in **Nigeria**
 * 💻 Focused on **Full-Stack JavaScript**
-* ⚛️ Currently building with **React + Node.js**
-* 🗄️ Working with **MongoDB & REST APIs**
-* 🔐 Learning authentication, authorization & application architecture
-* 🤖 Exploring **AI/API integrations**
+* ⚛️ Building with **React**
+* 🟢 Working with **Node.js & Express**
+* 🍃 Working with **MongoDB**
+* 🔐 Building applications with authentication & authorization
+* 🤖 Exploring **AI and API integrations**
 * 🛠️ I learn best by building real projects
-* 🎯 Goal: Become a strong **professional full-stack developer**
+* 🎯 Working toward becoming a strong professional full-stack developer
 
 ---
 
@@ -48,33 +49,35 @@ I started with web development and PHP, built my first serious full-stack platfo
 
 ## 🚀 Featured Projects
 
-### 📚 Apex Tutors
-
-**Full-stack online tutoring platform built with PHP & MySQL.**
-
-A complete platform featuring authentication, student/tutor/admin dashboards, courses, lessons, quizzes, enrollment and payment integration.
-
-**Built with:**
-
-`PHP` `MySQL` `MVC` `JavaScript` `Paystack`
-
-🔗 **Live:** [Apex Tutors](https://apextutors.kesug.com/public/)
-
-🔗 **Code:** [GitHub Repository](https://github.com/Iyio-dev/apex-tutors)
-
----
-
 ### 💻 DevBoard
 
-**A project management dashboard built with the MERN stack.**
+**A modern project and task management dashboard built with the MERN stack.**
 
-DevBoard helps users organize projects and tasks through a modern dashboard with authentication, project management and task tracking.
+DevBoard allows users to manage projects and tasks through a clean dashboard with authentication, project management, task tracking and progress monitoring.
 
 **Built with:**
 
 `React` `Node.js` `Express` `MongoDB` `JWT` `REST API` `Tailwind CSS`
 
-🔗 **GitHub:** [DevBoard Repository](https://github.com/Iyio-dev)
+🌐 **[Live Demo](https://devboard-two-flax.vercel.app/)**
+
+💻 **[GitHub](https://github.com/Iyio-dev)**
+
+---
+
+### 📚 Apex Tutors
+
+**Full-stack online tutoring platform built with PHP & MySQL.**
+
+A complete tutoring platform featuring authentication, student/tutor/admin dashboards, courses, lessons, quizzes, enrollment and payment integration.
+
+**Built with:**
+
+`PHP` `MySQL` `MVC` `JavaScript` `Paystack`
+
+🌐 **[Live Platform](https://apextutors.kesug.com/public/)**
+
+💻 **[GitHub](https://github.com/Iyio-dev/apex-tutors)**
 
 ---
 
@@ -82,30 +85,30 @@ DevBoard helps users organize projects and tasks through a modern dashboard with
 
 ```text
 JavaScript
-   ↓
+     ↓
 React
-   ↓
+     ↓
 Node.js + Express
-   ↓
+     ↓
 MongoDB
-   ↓
+     ↓
 REST APIs
-   ↓
+     ↓
 Authentication & Authorization
-   ↓
-Production-ready Full-Stack Applications
-   ↓
+     ↓
+Production Applications
+     ↓
 AI-powered Applications
 ```
 
-I'm currently focusing on going beyond tutorials and becoming comfortable with:
+Currently focused on improving my understanding of:
 
-* 🧩 Application architecture
+* 🧩 Full-stack application architecture
 * 🔐 Authentication & authorization
-* 🔄 API design
-* 🗃️ Database relationships
+* 🔄 REST API design
+* 🗃️ Database design
 * ⚛️ React state & component architecture
-* 🧪 Testing & debugging
+* 🧪 Debugging & problem solving
 * 🚀 Deployment
 * 🤖 AI integrations
 
@@ -115,27 +118,27 @@ I'm currently focusing on going beyond tutorials and becoming comfortable with:
 
 ### Build → Break → Debug → Understand → Improve
 
-I believe the fastest way to become a better developer is to **build things that are slightly beyond your current ability**.
+I believe one of the best ways to become a better developer is to build projects that push you beyond what you already know.
 
-Every bug is an opportunity to understand something deeper.
-
-Every project is a chance to improve.
+**Every bug is a lesson.
+Every project is experience.
+Every improvement compounds.**
 
 ---
 
 ## 🎯 2026 Goals
 
 * [x] Build a complete PHP full-stack application
-* [x] Deploy a real project
+* [x] Deploy a real-world application
 * [x] Learn React
 * [x] Learn Node.js & Express
 * [x] Learn MongoDB
 * [x] Build a MERN application
-* [ ] Deploy DevBoard
+* [x] Deploy DevBoard
 * [ ] Build more production-style applications
 * [ ] Contribute to open source
-* [ ] Land my first professional developer opportunity
-* [ ] Continue growing toward mid-level full-stack development
+* [ ] Gain professional development experience
+* [ ] Continue progressing toward mid-level full-stack development
 
 ---
 
@@ -156,41 +159,40 @@ Every project is a chance to improve.
 
 ---
 
-## 🌱 Beyond Code
+## 🌱 What I Want to Build
 
-I'm interested in building technology that solves **real problems**, especially for students and young people.
+I'm interested in creating technology that solves **real problems**, especially for students and young people.
 
-Some of the ideas I'm exploring include:
+Areas I'm exploring:
 
-* 🎓 Student-focused SaaS products
-* 🤖 AI-powered tools
-* 📊 Productivity & management systems
+* 🎓 Student-focused SaaS
+* 🤖 AI-powered applications
+* 📊 Productivity systems
 * 💡 Educational technology
-* 🌍 Software products designed for emerging markets
+* 🌍 Software built for emerging markets
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in meeting developers, builders, mentors and people working on interesting ideas.
-
-<p>
+<p align="center">
   <a href="https://github.com/Iyio-dev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/iyiola-ajibola-660b773a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://devboard-two-flax.vercel.app/">
+    <img src="https://img.shields.io/badge/DevBoard-Live%20Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 💭 "Build something. Learn something. Repeat."
-
-⭐ **If you find my projects interesting, feel free to explore my repositories.**
-
----
+<p align="center">
+  <b>💻 Build something. Learn something. Repeat.</b>
+</p>
 
 <p align="center">
-  <b>Made with 💻 and ☕ by Ajibola Iyiola</b>
+  Made with 💻 by <b>Ajibola Iyiola</b>
 </p>
