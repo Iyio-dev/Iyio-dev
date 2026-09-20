@@ -51,9 +51,9 @@ I started with web development and PHP, built my first serious full-stack platfo
 
 ### 💻 DevBoard
 
-**A modern project and task management dashboard built with the MERN stack.**
+**A modern project management dashboard built with the MERN stack.**
 
-DevBoard allows users to manage projects and tasks through a clean dashboard with authentication, project management, task tracking and progress monitoring.
+DevBoard allows users to create and manage projects, organize tasks, track completion, and monitor project progress through a modern dashboard.
 
 **Built with:**
 
@@ -67,9 +67,9 @@ DevBoard allows users to manage projects and tasks through a clean dashboard wit
 
 ### 📚 Apex Tutors
 
-**Full-stack online tutoring platform built with PHP & MySQL.**
+**A full-stack online tutoring platform built with PHP & MySQL.**
 
-A complete tutoring platform featuring authentication, student/tutor/admin dashboards, courses, lessons, quizzes, enrollment and payment integration.
+Apex Tutors features authentication, student/tutor/admin dashboards, courses, lessons, quizzes, enrollment and payment integration.
 
 **Built with:**
 
@@ -78,6 +78,16 @@ A complete tutoring platform featuring authentication, student/tutor/admin dashb
 🌐 **[Live Platform](https://apextutors.kesug.com/public/)**
 
 💻 **[GitHub](https://github.com/Iyio-dev/apex-tutors)**
+
+---
+
+## 🌐 Portfolio
+
+Want to see more of my work?
+
+### 👉 [Visit My Portfolio](https://iyio-dev.github.io/portfolio/)
+
+My portfolio showcases my projects, technical skills, and development journey.
 
 ---
 
@@ -118,7 +128,7 @@ Currently focused on improving my understanding of:
 
 ### Build → Break → Debug → Understand → Improve
 
-I believe one of the best ways to become a better developer is to build projects that push you beyond what you already know.
+I believe one of the best ways to become a better developer is to build projects that push me beyond what I already know.
 
 **Every bug is a lesson.
 Every project is experience.
@@ -135,6 +145,7 @@ Every improvement compounds.**
 * [x] Learn MongoDB
 * [x] Build a MERN application
 * [x] Deploy DevBoard
+* [x] Build and deploy a personal portfolio
 * [ ] Build more production-style applications
 * [ ] Contribute to open source
 * [ ] Gain professional development experience
@@ -182,8 +193,8 @@ Areas I'm exploring:
   <a href="https://www.linkedin.com/in/iyiola-ajibola-660b773a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://devboard-two-flax.vercel.app/">
-    <img src="https://img.shields.io/badge/DevBoard-Live%20Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://iyio-dev.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
